@@ -2,11 +2,11 @@
 It’s sometimes a bit more elegant than a protocol **delegate**, and in certain cases, it's just a better fit for communicating back and forth between your view controllers.  
 
 
-![](images/delegate.jpeg)
+![](images/delegate.png)
 
-![](images/problem.jpeg)
+![](images/problem.png)
 
-![](images/responder_chain.jpeg)
+![](images/responder_chain.png)
 
 ### Quick Start
 There are four functions in ResponderExtensions.swift, any of which you can comment out to test how the responder chain works.
